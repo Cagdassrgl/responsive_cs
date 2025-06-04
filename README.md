@@ -2,7 +2,7 @@
 
 [![Pub Version](https://img.shields.io/pub/v/responsive_cs)](https://pub.dev/packages/responsive_cs)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![Flutter CI](https://github.com/yourusername/responsive_cs/actions/workflows/flutter.yml/badge.svg)](https://github.com/yourusername/responsive_cs/actions)
+[![Flutter CI](https://github.com/Cagdassrgl/responsive_cs/actions/workflows/flutter.yml/badge.svg)](https://github.com/yourusername/responsive_cs/actions)
 
 A responsive sizing package for Flutter that helps create adaptive UIs across different screen sizes (mobile, tablet) and orientations (portrait, landscape).
 
@@ -116,4 +116,24 @@ class ResponsiveWidget extends StatelessWidget {
     );
   }
 }
+```
+
+## License
+
+### MIT License
+
+```
+This README includes:
+1. Package header with badges
+2. Clear installation instructions
+3. Comprehensive usage examples
+4. API reference
+5. Best practices section
+6. License information
+
+You can customize:
+- The example design sizes to match your use case
+- Add more complex examples if needed
+- Include screenshots or GIFs showing the responsiveness
+- Add a "Contributing" section if it's an open-source project
 ```
