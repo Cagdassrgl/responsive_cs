@@ -23,7 +23,7 @@ dependencies:
   responsive_cs: ^0.0.1
 ```
 
-## Usage
+## Usage
 
 1. Initialize in your app
    Wrap your MaterialApp with ResponsiveSizerWidget:
@@ -87,7 +87,7 @@ if (ResponsiveSizer.instance.orientation == Orientation.landscape) {
 }
 ```
 
-## Example
+## Example
 
 Here's a complete responsive widget example:
 
@@ -118,9 +118,9 @@ class ResponsiveWidget extends StatelessWidget {
 }
 ```
 
-## License
+## License
 
-### MIT License
+### MIT License
 
 ```
 This README includes:
