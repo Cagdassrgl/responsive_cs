@@ -1,6 +1,6 @@
 name: responsive_cs
 description: "A responsive sizing package for Flutter that works across phones, tablets in both portrait and landscape modes."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Cagdassrgl/responsive_cs
 
 environment:
